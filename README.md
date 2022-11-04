@@ -56,7 +56,7 @@ https://www.elcato.org/pdf_files/efw2010/efw-capitulo5-2010.pdf fecha de consult
 
 ### Base de Datos 2 (joel)
 
-4 Variables independientes:
+- Variables independientes:
 
  + Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)
  
@@ -78,28 +78,9 @@ data:
 + - Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
 
 
-
-
 + Bibliografía:
 
 Garavito, C. (1998). Determinantes del Desempleo en Lima Metropolitana, 1970-1996. Economia, 21(41), 143-183. Retrieved from https://revistas.pucp.edu.pe/index.php/economia/article/view/150
 
 De La Hoz, F. J., Quejada, R. & Yánez, M. (2012). El desempleo juvenil: problema de efectos perpetuos. Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud, 10, (1), pp. 427-439. Retrieved from http://www.scielo.org.co/pdf/rlcs/v10n1/v10n1a27
-
-
-variable dependiente:
-
-
-
-Base de datos unificada:
-
-
-
-
-
-
-
-
-
-
 
