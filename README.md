@@ -1,7 +1,5 @@
 # Determinantes del desempleo juvenil en el mundo 2020
 
-Repositorio sobre resultados de las ERM. 
-
 ### Bases de datos utilizadas para el análisis:
 
 BANCO MUNDIAL: *Información sobre algunas de las variables independientes y la dependiente* (<https://datos.bancomundial.org/>)
