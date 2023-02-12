@@ -28,7 +28,7 @@ CIA: *Información sobre algunas de las variables independientes* (<https://www.
 - *DATALIMPIA.Rmd*: Rmd con el proceso de limpieza
 
 
-Ver Github pages por aquí: <luccemhu.github.io>
+Ver Github pages por aquí: [luccemhu.github.io](https://luccemhu.github.io/)
 
 # LIMPIEZA
   - 5 variables independientes 
