@@ -35,5 +35,5 @@ Ver Github pages por aquí: [luccemhu.github.io](https://luccemhu.github.io/)
   - 1 variable dependiente
 
 ## Miembros del grupo:
- + Joel B. Huamani (20196510)
+ + Joel Belsasar (20196510)
  + Jose Rios (20181496)
